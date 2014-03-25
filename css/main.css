@@ -1,3 +1,6 @@
+* {
+	outline: red 1px solid;
+}
 body {
 	background-color: black;
 }
@@ -35,5 +38,8 @@ body {
 	width: 156px;
 	height: 90px;
 	display: none;
+	position: relative;
+	left: 600px;
+	top: -350px;
 	float: left;
 }
